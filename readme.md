@@ -10,7 +10,7 @@ Antes de apresentar a lista, esse é um link que encontrei recentemente que faz 
 
 <img src="http://websocialdev.com/wp-content/uploads/2014/04/frameworksmobilecomparison_websocialdev_img_post.png" alt="Frameworks Mobile Comparison Chart - Web Social Dev - img Post" class="alignnone size-full wp-image-1410" />
 
-Agora sim, vamos a lista de frameworks analisados.
+A lista:
 
 <h2><a href="http://chocolatechip-ui.com/">Chocolate-UI</a></h2>
 
